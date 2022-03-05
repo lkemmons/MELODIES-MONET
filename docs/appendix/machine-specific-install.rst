@@ -21,7 +21,7 @@ or tcsh shell.
 
 **Step 1 Miniconda:** The conda package manager is not installed on the Cheyenne 
 or Casper clusters, but you can install Miniconda in your own user space 
-(`CISL instructions <https://arc.ucar.edu/knowledge_base/83853599>`_):
+(`CISL instructions <https://www2.cisl.ucar.edu/resources/conda-environments>`_):
 
 (a) Download latest version::
 
@@ -94,7 +94,7 @@ dependencies.
 
 **Step 3: Clone the MELODIES-MONET GitHub repository** ::
 
-    $ git clone git@github.com:NOAA-CSL/MELODIES-MONET.git
+    $ git clone https://github.com/NOAA-CSL/MELODIES-MONET
 
     End step. At the end of working with MELODIES MONET, deactivate the 
     conda environment::
